@@ -1,4 +1,4 @@
 # Apnacode
 This is my first Git Repository
-<dr></dr>
-Auther->Anas Mewati 
+<br></br>
+Auther-Anas Mewati 
